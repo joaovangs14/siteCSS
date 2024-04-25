@@ -38,7 +38,13 @@ body{
 .botao{
     height: 50px;
     width: 80px;
+    align-items: center;
+    text-align: center;
+    float: left;
 }
 div{
     text-align: center;
+}
+#bot{
+    margin-top: 25.5px;
 }
