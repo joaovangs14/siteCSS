@@ -23,7 +23,8 @@ body{
     width: 315px;
     background-color: rgb(0, 0, 0);
     float: left;
-    margin-left: 37px;
+    margin-left: 27px;
+    margin-right: 10px;
     margin-top: 10px;
     color: white;
 }
@@ -56,4 +57,5 @@ body{
 .botao{
     width: 315px;
     height: 110px;
+   
 }
